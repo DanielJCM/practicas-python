@@ -2,4 +2,4 @@
 
 Para probar los ejercicios usaremos el siguiente comando:
 
-$ python nombre_programa.py
+$ python ejercicios/nombre_programa.py
